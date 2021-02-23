@@ -1,0 +1,7 @@
+#Atlassian Workflow properties
+
+https://confluence.atlassian.com/adminjiraserver071/workflow-properties-802592825.html
+Make jira.issue.editable as false to hide edit button on IN-progress status
+#Jira workflow properties tricks and cheat sheet
+
+https://www.linkedin.com/pulse/jira-workflow-properties-tricks-cheat-sheet-muhammad-ramzan/
