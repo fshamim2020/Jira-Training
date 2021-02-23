@@ -5,3 +5,9 @@ Make jira.issue.editable as false to hide edit button on IN-progress status
 #Jira workflow properties tricks and cheat sheet
 
 https://www.linkedin.com/pulse/jira-workflow-properties-tricks-cheat-sheet-muhammad-ramzan/
+
+#Adding the sequence of Workflow status use: opsbar-sequence	
+opsbar-sequence	= 10 -- Highest
+opsbar-sequence	 = 20 -- Middle
+opsbar-sequence	 = 30 -- Lowest
+https://blog.deiser.com/en/jira-workflow-properties-the-great-unknown
